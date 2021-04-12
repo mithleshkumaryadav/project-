@@ -1,0 +1,42 @@
+2021-03-11 11:57:19 Error: [RuntimeException] Unknown command `cake server/`. Run `cake --help` to get the list of valid commands. in /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/admi/Downloads/cakephp-3-9-8/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
+2021-03-11 19:15:06 Error: [RuntimeException] Unknown command `cake server/`. Run `cake --help` to get the list of valid commands. in /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/admi/Downloads/cakephp-3-9-8/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
+2021-03-15 11:06:06 Error: [RuntimeException] Unknown command `cake _server`. Run `cake --help` to get the list of valid commands. in /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/admi/Downloads/cakephp-3-9-8/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
+2021-03-15 11:06:32 Error: [RuntimeException] Unknown command `cake _`. Run `cake --help` to get the list of valid commands. in /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/admi/Downloads/cakephp-3-9-8/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
+2021-03-16 11:24:14 Error: [RuntimeException] Unknown command `cake service`. Run `cake --help` to get the list of valid commands. in /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/admi/Downloads/cakephp-3-9-8/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
+2021-03-16 11:31:58 Error: [RuntimeException] Unknown command `cake service`. Run `cake --help` to get the list of valid commands. in /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php on line 346
+Stack Trace:
+#0 /home/admi/Downloads/cakephp-3-9-8/vendor/cakephp/cakephp/src/Console/CommandRunner.php(157): Cake\Console\CommandRunner->resolveName()
+#1 /home/admi/Downloads/cakephp-3-9-8/bin/cake.php(12): Cake\Console\CommandRunner->run()
+#2 {main}
+
+
